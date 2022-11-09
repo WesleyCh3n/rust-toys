@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+  "mutex-and-arc",
+  "channel",
+  "recursion"
+]
