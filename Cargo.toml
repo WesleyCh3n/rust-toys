@@ -3,5 +3,7 @@
 members = [
   "mutex-and-arc",
   "channel",
-  "recursion"
+  "recursion",
+  "iter-dir",
+  "file-io"
 ]
