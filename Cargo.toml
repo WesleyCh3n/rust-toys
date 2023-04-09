@@ -7,5 +7,6 @@ members = [
   "iter-dir",
   "file-io",
   "atomic-bool",
-  "serde-toys"
+  "serde-toys",
+  "cpp-bind"
 ]
