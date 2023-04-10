@@ -18,7 +18,7 @@ extern "C" {
 float *get_vec() {
   auto *vec = new float(10);
   for (int i = 0; i < 10; i++) {
-    vec[i] = i;
+    vec[i] = (float)i;
   }
   return vec;
 }
